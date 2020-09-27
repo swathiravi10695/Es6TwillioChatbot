@@ -1,0 +1,27 @@
+{
+  "name": "es6chatbot",
+  "version": "1.0.0",
+  "description": "My chatbot application built on Node.js and Twillio for purpose of assignment submission for Prog8110-20F",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swathiravi10695/Es6TwillioChatbot.git"
+  },
+  "keywords": [
+    "es6",
+    "Chatbot",
+    "twillio"
+  ],
+  "author": "Swathi Korrapatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swathiravi10695/Es6TwillioChatbot/issues"
+  },
+  "homepage": "https://github.com/swathiravi10695/Es6TwillioChatbot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
