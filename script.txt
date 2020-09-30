@@ -1,10 +1,4 @@
-One morning you are reading a news paper and you find an advertisement on the classifieds news paper selling an apartment building in your preferred neighbourhood,
-Do you purchase it? YES or NO?
-
-YES:You proceed to do some background research to  purchase the house and find out that the apartment is in the 13th floor in the B phase. Your family advices you not to proceed 
-with the purchase,But you do want to purchase it due to the unbeatable price, Do you still proceed to purchase it? PURCHASE or FORGET IT? 
-NO:Your parents love the idea of you buying a new house and also love the view from the balcony they force you to purchase it, Being an obedient child you comply and purchase the
-property.
+One morning you are reading a news paper and you find an advertisement on the classifieds news paper selling an apartment building in your preferred neighbourhood and you decide to purchase it.
 
 PURCHASE:You purchase the house and your family of 13 members including your in-laws decide to move in with you, The first few days seem absolutely fine and things are going really rosy
 you believe the purchase of the house was the best thing that happened to you,But things take a quick turn and you notice that the lift does not work when you enter it alone.You also notice

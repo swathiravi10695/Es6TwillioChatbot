@@ -16,6 +16,7 @@ app.post("/sms", (req, res) =>{
         oGames[sFrom] = new Game();
     }
     let sMessage = req.body.Body|| req.body.body;
+    console.log(sMessage);
     let aReply = oGames[sFrom].makeAMove(sMessage);
     res.setHeader('content-type', 'text/xml');
     let sResponse = "<Response>";
